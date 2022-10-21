@@ -1,5 +1,7 @@
-##0x15. API
+## 0x15 API
 
 #Description
 
-The aim of this project is to write automated tasks in Python instead of Bash. Those tasks focus on getting data from an API and exporting it in JSON or CSV format.
+The aim of this project is to write automated tasks in python instead of Bash.Those tasks focus on getting data from API and exporting it in JSON or CSV format.
+
+
